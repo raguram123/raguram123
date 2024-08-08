@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/swastic-kumar-a56910157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastic kumar" height="30" width="40" /></a>
+<img align="center" src="https://nandbox.com/wp-content/uploads/2023/08/Programmers-Favorite-Child.webp" alt="" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
