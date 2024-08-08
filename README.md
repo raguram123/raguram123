@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raguram123" alt="raguram123" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastickumar&label=Profile%20views&color=0e75b6&style=flat" alt="swastickumar" /> </p>
+<img align="center" src="https://nandbox.com/wp-content/uploads/2023/08/Programmers-Favorite-Child.webp" alt="https://www.linkedin.com/in/raguraman-b-053814220/" height="50" width="50" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/raguram123?tab=repositories](https://github.com/raguram123?tab=repositories)
 
