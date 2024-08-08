@@ -9,7 +9,7 @@
 
 - 📫 Feel free to reach me **raguraman120601@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Bjz8n2OjdUAYiGOlbMYgVUZauk8xGh34/view?usp=sharing](https://drive.google.com/file/d/1Bjz8n2OjdUAYiGOlbMYgVUZauk8xGh34/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1nEJleHzDFxcWwH6l3s2_t3addKbJCudi/view?usp=drivesdk](https://drive.google.com/file/d/1nEJleHzDFxcWwH6l3s2_t3addKbJCudi/view?usp=drivesdk)
 
 - ⚡ Fun fact **I like giving advice but find it tough to implement myself.**
 
