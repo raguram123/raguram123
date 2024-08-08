@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Raguraman B</h1>
+<h1 align="center">Hi all👋, I'm Raguraman B</h1>
 <h3 align="center">Enthusiastic and Passionate Full Stack Developer from Coimbatore , Tamilnadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raguram123&label=Profile%20views&color=0e75b6&style=flat" alt="raguram123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raguram123" alt="raguram123" /></a> </p>
-
-<img align="center" src="https://nandbox.com/wp-content/uploads/2023/08/Programmers-Favorite-Child.webp" alt="https://www.linkedin.com/in/raguraman-b-053814220/" height="50" width="50" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/raguram123?tab=repositories](https://github.com/raguram123?tab=repositories)
 
